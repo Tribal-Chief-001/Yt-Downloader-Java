@@ -1,5 +1,5 @@
 # Yt-Downloader-Java
-A basic fork of yt dl and wrapper in java for YouTube video download
+A basic fork of yt dlp and wrapper in java for YouTube video download
 
 
 
